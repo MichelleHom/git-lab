@@ -8,3 +8,6 @@ CSCI 104 - Lab 11 with Alice &amp;&amp; Bob
 
 ![the Nyantocat](https://octodex.github.com/images/nyantocat.gif) 
 
+###New Features Under Development
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
+
