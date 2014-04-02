@@ -5,6 +5,6 @@ int main(int argc, char *argv[]) {
 		if( i % 5 == 0)
 			std::cout << i << ": " << "Buzz" << std::endl;
 	}
-	
+	 
 	return(0);
 }
