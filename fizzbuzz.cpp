@@ -10,7 +10,7 @@ int main(int argc, char *argv[]) {
 
 		if( i % 3 == 0)
 			std::cout << i << ": " << "Fizz" << std::endl;
-	}
+	}   
 	
 
 	return(0);
