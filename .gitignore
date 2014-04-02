@@ -19,3 +19,10 @@
 *.exe
 *.out
 *.app
+
+# Added
+bin/
+.*.sw[a-z]
+*~
+\#*\#
+.DS_Store
